@@ -65,15 +65,11 @@ Found something confusing? Have a better cloud analogy? Spotted an error? PRs we
 
 ## Disclaimer
 
-This guide reflects real-world experience securing multi-petabyte scientific computing environments. Your mileage may vary. Not all HPC centers operate the same way, but the core concepts translate.
+Your mileage may vary. Not all HPC centers operate the same way, but the core concepts translate.
 
 ## License
 
 MIT License - use this however it helps you.
-
-## Acknowledgments
-
-Thanks to every HPC professional who patiently explained "yes, it's like that cloud thing... but different."
 
 ---
 
