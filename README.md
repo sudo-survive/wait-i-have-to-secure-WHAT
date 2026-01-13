@@ -52,10 +52,10 @@ A comprehensive 12-week program covering the integration, interoperability, and 
 
 ## Additional Resources
 
-### [HPC to Cloud Translation Guide](hpc_to_cloud_translation_guide.md)
+### [HPC to Cloud Translation Guide](cloud-to-hpc-study-plan/hpc_to_cloud_translation_guide.md)
 Maps HPC concepts (compute nodes, job schedulers, parallel filesystems) to their cloud equivalents, then explains what's different and why it matters for security.
 
-### [Original HPC Security Study Plan](hpc_security_study_plan.md)
+### [Original HPC Security Study Plan](cloud-to-hpc-study-plan/hpc_security_study_plan.md)
 The original 6-month security-focused learning roadmap that started this repository.
 
 ## Content Generation and Status
